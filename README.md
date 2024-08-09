@@ -19,4 +19,4 @@ B.Tech IT-Student
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
-[![Hariharapudhran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=292426&color=00d5ff&line=55ece2&point=e6dbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[[My github Graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=292426&color=00d5ff&line=55ece2&point=e6dbdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
